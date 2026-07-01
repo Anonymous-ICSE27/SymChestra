@@ -1,0 +1,11 @@
+{
+    "pgm_name": "objcopy",
+    "pgm_dir": "benchmarks/binutils-2.36/obj-llvm/",
+    "exec_dir": "/binutils",
+    "gcov_dir": "/binutils",
+    "gcov_path": "benchmarks/binutils-2.36/obj-gcov",
+    "gcov_file": "../*/*.gcov",
+    "gcda_file": "../*/*.gcda",
+    "sym_options": "-sym-args 0 2 2 A -sym-files 1 100"
+}
+    

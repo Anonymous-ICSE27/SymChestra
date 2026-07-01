@@ -1,0 +1,11 @@
+{
+    "pgm_name": "as-new",
+    "pgm_dir": "benchmarks/binutils/obj-llvm/",
+    "exec_dir": "/gas",
+    "gcov_dir": "/gas",
+    "gcov_path": "benchmarks/binutils/obj-gcov",
+    "gcov_file": "../*/*.gcov ../*/*/*.gcov",
+    "gcda_file": "../*/*.gcda ../*/*/*.gcda",
+    "sym_options" : "--sym-args 0 1 10 --sym-args 0 2 2 --sym-files 1 8 --sym-stdin 8 --sym-stdout"
+    }
+    

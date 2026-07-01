@@ -1,0 +1,10 @@
+{
+    "pgm_name": "find",
+    "pgm_dir": "benchmarks/findutils-4.7.0/obj-llvm/",
+    "exec_dir": "/find",
+    "gcov_dir": "/find",
+    "gcov_path": "benchmarks/findutils-4.7.0/obj-gcov",
+    "gcov_file": "../*/*.gcov",
+    "gcda_file": "../*/*.gcda"
+    }
+    
